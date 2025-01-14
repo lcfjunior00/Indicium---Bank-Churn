@@ -9,3 +9,5 @@ antecipadamente a saída de clientes através de um arquivo CSV que contém info
 - `modelo.pkl`: Arquivo pickle do pipeline do modelo final utilizado para prever os resultados no arquivo resultado_final.csv
 - `requirements.txt`: Lista de dependências para reproduzir o ambiente.
 - `README.md`: Este arquivo com informações sobre o projeto.
+
+  obs.: O notebook foi desenvolvido no ambiente do Google Colab, então nele encontrará todas as dependências necessárias para rodar o código.
